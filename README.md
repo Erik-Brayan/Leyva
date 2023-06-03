@@ -11,4 +11,3 @@ China	43		66,6	5,3	2,3	13	5,5
 Asia Meridional	27	9,8	44,5	6,5	4,3	9	1,9
 India	32	4,8	48,7	6,4	3,5	9	1,9
 Países Menos Adelantados	7	10,8	18,4	3,2	2,5	8	0,4
-![image](https://github.com/Erik-Brayan/Multivariado/assets/121722112/20878cd3-d487-42ad-8fd6-94798c107674)
